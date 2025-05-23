@@ -17,3 +17,4 @@ System.out.println("部内会議を開催します。部署：" + name + "、予
 public String getName() { 
 return name; 
 }
+}
